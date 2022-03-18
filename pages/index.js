@@ -4,7 +4,7 @@ import Navbar from '../components/Navbar';
 export default function Home() {
   return (
     <body className='bg-black min-h-screen text-white '>
-      <div className='max-w-7xl mx-auto'>
+      <div className='max-w-7xl mx-auto scroll-smooth'>
         <Navbar />
         <About />
       </div>
