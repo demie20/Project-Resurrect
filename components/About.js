@@ -7,7 +7,7 @@ function About() {
           <h1 className="font-thin text-4xl font-mono tracking-tighter justify-center ">
             Project Resurrect
           </h1>
-          <div className=" flex justify-center">
+          <div className=" flex justify-center p-5">
             <iframe
               width="560"
               height="315"
@@ -28,12 +28,12 @@ function About() {
           <h1 className="font-thin text-4xl font-mono tracking-tighter">
             How it works
           </h1>
-          <h3 className="text-xl pt-2 pr-20">
+          <h3 className="text-xl pt-2 ">
             Project Resurrect uses deep learning models to synthesize audio and
             video, syncing it together, to recreate famous speeches, that can be
             further used to generate holograms, virtual actors and a lot more.
           </h3>
-          <h3 className="text-xl pt-2 pr-20">
+          <h3 className="text-xl pt-2 ">
             We are refining these videos by constantly feeding it new data, to
             yield seamless videos in real-time.
           </h3>
@@ -72,7 +72,6 @@ function About() {
 
         <div className="flex flex-col justify-center w-full divide-zinc-700 divide-y divide-dotted"></div>
       </div>
-      <div className="flex  w-full justify-between items-center px-20 py-10 rounded-md "></div>
       <div
         className="flex flex-col w-full justify-between px-20 py-10 rounded-md "
         id="contact-us"
