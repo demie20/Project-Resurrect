@@ -47,9 +47,9 @@ function About() {
             Example
           </h1>
           <div className="divide-zinc-700 divide-y divide-dotted">
-            <div className="flex w-full  justify-between items-center px-20 py-10 rounded-md">
-              <video src="result (1).mp4" controls className="w-96 pr-20" />
-              <div>
+            <div className="flex flex-col w-full justify-center items-center py-10 rounded-md">
+              <video src="result.mp4" controls className="max-w-sm w-full" />
+              <div className="">
                 <h3 className="text-base font-medium">
                   Today I&apos;ll sign an executive order, that directs the
                   Federal Government to replace outdated, and really outdated..
@@ -57,10 +57,9 @@ function About() {
                 <h3 className="text-base font-medium">- Donald Trump</h3>
               </div>
             </div>
-
-            <div className="flex w-full justify-between items-center px-20 py-10 rounded-md">
-              <video src="result.mp4" controls className="w-96 pr-20" />
-              <div>
+            <div className="flex flex-col w-full justify-center items-center py-10 rounded-md">
+              <video src="result (1).mp4" controls className="max-w-sm w-full" />
+              <div className="">
                 <h3 className="text-base font-medium">
                   Today I&apos;ll sign an executive order, that directs the
                   Federal Government to replace outdated, and really outdated..
