@@ -41,7 +41,7 @@ function About() {
             <video src="result.mp4" controls className="w-1/2 pr-20" />
             <div>
               <h3 className="text-base font-medium">
-                Today I'll sign an executive order, that directs the Federal
+                Today I&apos;ll sign an executive order, that directs the Federal
                 Government to replace outdated, and really outdated..
               </h3>
               <h3 className="text-base font-medium">- Donald Trump</h3>
