@@ -1,19 +1,6 @@
-# Portfolio Website
+# Project Resurrect | Bringing back long lost speeches through the power of AI
 
-### [Link](https://ayush-mishra.vercel.app/) - Deployed on Vercel
 
-***
+Project Resurrect uses Deep Learning Models to synthesize audio and video, syncing it together, to recreate famous speeches, that can be further used to generate holograms, virtual actors and a lot more. We are refining these videos by constantly feeding it new data, to yield seamless videos in real-time
 
-* **Framework**: Next.js
-
-* **Styling**: Tailwind CSS
-
-* **Deployment**: Vercel
-
-***
-
-<img src="https://i.ibb.co/JRJFcwc/Screenshot-20220304-184203.png" alt="Screenshot-20220304-184203" border="0">
-
-***
-
-Feel free to use it for your own Portfolio Website after removal of all personal information.
+### [Link](https://project-resurrect.vercel.app/) - Deployed on Vercel
