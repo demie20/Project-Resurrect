@@ -7,7 +7,17 @@ function About() {
           <h1 className="font-thin text-4xl font-mono tracking-tighter justify-center ">
             Project Resurrect
           </h1>
-          <h3 className="text-base font-light pr-20 "></h3>
+          <div className=" flex justify-center">
+            <iframe
+              width="560"
+              height="315"
+              src="https://www.youtube.com/embed/0pj7qinCtiA"
+              title="YouTube video player"
+              frameborder="0"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+              allowfullscreen
+            ></iframe>
+          </div>
         </div>
       </div>
       <div
